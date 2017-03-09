@@ -1,0 +1,5 @@
+#
+# CPU
+#
+BR2_arm=y
+BR2_fa526=y
